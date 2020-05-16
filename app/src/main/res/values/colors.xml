@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212E04</color>
+    <color name="colorPrimaryDark">#212E04</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="my_theme_low_contrast">#212E04</color>
+</resources>
